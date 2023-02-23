@@ -13,5 +13,16 @@ export default defineConfig({
 	},
 	server: {
 		open: true,
+		proxy: {
+			"/app-dev": {
+				target: "http://localhost:3000",
+				// pathRewrite: {
+				//   '^/app-dev': ''
+				// },
+				// vite => rewrite
+				rewrite: path => path.replace(/^\/app-dev/, ""),
+				changeOrigin: true,
+			},
+		},
 	},
 });

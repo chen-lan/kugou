@@ -1,4 +1,4 @@
 import request from "@/utils/request";
 import mockAjax from "@/utils/mockRequest";
 
-export const reqNav = () => mockAjax({ url: "/nav", method: "get" });
+export const reqNav = () => request({ url: "/toplist", method: "get" });

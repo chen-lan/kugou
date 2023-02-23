@@ -1,0 +1,130 @@
+[
+	{
+		"logo": "https://www.szkingdom.com/2021/img/logo.png",
+		"Group": {
+			"groupName": "集团旗下子公司",
+			"subsidiary": [
+				{
+					"id": 1,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "港融科技"
+				},
+				{
+					"id": 2,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "金智维信息科技有限公司"
+				},
+				{
+					"id": 3,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "尚硅谷"
+				},
+				{
+					"id": 4,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "人谷科技"
+				},
+				{
+					"id": 5,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "联龙博通"
+				},
+				{
+					"id": 6,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "金微蓝"
+				},
+				{
+					"id": 7,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "丽海弘金"
+				},
+				{
+					"id": 8,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "金证优智"
+				},
+				{
+					"id": 9,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "金证前海"
+				},
+				{
+					"id": 10,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "睿服科技"
+				},
+				{
+					"id": 11,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "星网信通"
+				},
+				{
+					"id": 12,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "优品科技"
+				},
+				{
+					"id": 13,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "金证引擎"
+				},
+				{
+					"id": 14,
+					"url": "http://www.bayconnect.com.cn/",
+					"name": "齐普生"
+				}
+			],
+			"topnav": [
+				{
+					"id": 1,
+					"name": "金证云"
+				},
+				{
+					"id": 2,
+					"name": "解决方案",
+					"solveList": [
+						{
+							"id": 1,
+							"solveName": "大证券"
+						},
+						{
+							"id": 2,
+							"solveName": "大资管"
+						},
+						{
+							"id": 3,
+							"solveName": "大银行"
+						},
+						{
+							"id": 4,
+							"solveName": "创新类"
+						},
+						{
+							"id": 5,
+							"solveName": "大数字"
+						}
+					]
+				},
+				{
+					"id": 3,
+					"name": "客户服务(K-ONE)",
+					"clientList": [
+						{
+							"id": 1,
+							"publisher": "投资者关系"
+						}
+					]
+				},
+				{
+					"id": 4,
+					"name": "关于金证"
+				},
+				{
+					"id": 5,
+					"name": "加盟金证"
+				}
+			]
+		}
+	}
+]
